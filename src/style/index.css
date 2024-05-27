@@ -1,0 +1,10 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+.navlink {
+  text-decoration: none;
+  color: black;
+  padding-left: 8px;
+  padding-right: 8px;
+}
